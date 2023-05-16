@@ -1,5 +1,7 @@
-# <img src='https://raw.githubusercontent.com/OpenVoiceOS/ovos-PHAL-plugin-homeassistant/dev/ovos_PHAL_plugin_homeassistant/ui/icons/ha_icon_dark.svg' card_color='#22a7f0' width='50' height='50' style='vertical-align:bottom'/> Home Assistant PHAL Plugin Voice Interface
+# <img src='https://raw.githubusercontent.com/OpenVoiceOS/ovos-PHAL-plugin-homeassistant/dev/ovos_PHAL_plugin_homeassistant/ui/icons/ha_icon_dark.svg' card_color='#22a7f0' width='50' height='50' style='vertical-align:bottom'/> DEPRECATED - Home Assistant PHAL Plugin Voice Interface
 
+This skill is no longer maintained by OpenVoiceOS, use https://github.com/mikejgray/neon-homeassistant-skill instead
+__________________
 Control Your Home via Home Assistant
 
 ## About
